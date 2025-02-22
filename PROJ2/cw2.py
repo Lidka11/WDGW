@@ -6,7 +6,7 @@ from cartopy.io.img_tiles import OSM
 from geopy.distance import geodesic
 from datetime import datetime
 
-plik = 'dane/lot24.csv'
+plik = 'lot24.csv'
 dane = read_flightradar(plik)
 
 wspolrzedne = dane[:, [7, 8, 9]]
