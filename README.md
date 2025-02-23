@@ -1,4 +1,4 @@
-Zagadnienia z geodezji wyższej 🌌🌍
+# Zagadnienia z geodezji wyższej 🌌🌍
 
 Repozytorium zawiera zbiór skryptów i narzędzi do analizy astronomicznej i geodezyjnej, wykorzystywanych w geodezji wyższej 🔭. Kod umożliwia:
 
